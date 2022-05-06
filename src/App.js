@@ -1,4 +1,4 @@
-
+import 'antd/dist/antd.css';
 import Pages from './pages/Pages';
 
 function App() {
